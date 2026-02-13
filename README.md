@@ -221,4 +221,4 @@ The model predicts passing well but is weaker at detecting failing students.
 
 ## 👤 Author
 
-https://www.linkedin.com/in/sri-yamini-bandaru-a68698284/
+[LinkedIn](https://www.linkedin.com/in/sri-yamini-bandaru-a68698284/)
