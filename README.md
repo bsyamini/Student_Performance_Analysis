@@ -23,7 +23,7 @@ Student performance is influenced by multiple background, academic, and behavior
 
 This project answers:
 
-> Which background, family, lifestyle, and academic behavior factors significantly influence students’ final academic performance (G3)?
+- Which background, family, lifestyle, and academic behavior factors significantly influence students’ final academic performance (G3)?
 
 ---
 
